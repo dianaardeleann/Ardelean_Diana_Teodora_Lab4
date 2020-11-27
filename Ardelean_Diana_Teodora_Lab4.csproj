@@ -143,7 +143,7 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AutoLotModel\AutoLotModel.csproj">
+    <ProjectReference Include="AutoLotModel\AutoLotModel.csproj">
       <Project>{20f8f15d-f6bc-4efd-b066-c2510e96fed4}</Project>
       <Name>AutoLotModel</Name>
     </ProjectReference>
